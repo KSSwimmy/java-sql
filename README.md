@@ -91,6 +91,7 @@ ORDER BY City ASC
 
 ## Data Normalization
 
+
 Note: This step does not use PostgreSQL!
 
 Take the following data and normalize it into a 3NF database.
@@ -126,3 +127,6 @@ Take the following data and normalize it into a 3NF database.
   - the `id` should be the primary key for the table.
   - account `name` should be unique.
   - account `budget` is required.
+  
+
+  
